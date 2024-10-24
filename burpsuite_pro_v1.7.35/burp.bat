@@ -1,0 +1,1 @@
+& "C:/Program Files (x86)/Java/jre1.8.0_431/bin/java.exe" -Xbootclasspath/p:"C:\Users\Rafi\Downloads\burpsuite_pro_v1.7.35\BurpLoader_v1.7.35.jar" -jar "C:\Users\Rafi\Downloads\burpsuite_pro_v1.7.35\burpsuite_pro_v1.7.35.jar"
