@@ -12,5 +12,7 @@ Go to C:\Program Files (x86)\Java\jre1.8.0_431\bin
 Right click javaw.exe and open properties
 Go to compatibility > change high DPI settings and enable HIGH DPI scaling overide
 
+download link: https://drive.google.com/file/d/12QJ16fl3nP3ja9n14nGCYRwKAvEvtya8/view?usp=sharing
+
 
 
